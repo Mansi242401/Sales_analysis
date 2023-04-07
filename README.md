@@ -1,6 +1,6 @@
 # Sales_analysis
 
-In this project, we are analysing monthly sales data of a store selling electronic products in multiple cities across United States.
+In this project, we are analysing monthly sales data, for an year, of a store, selling electronic products in multiple cities across United States.
 We are answering following questions:
 
 1. What was the best month for Sales and how much was revenue in that month?
